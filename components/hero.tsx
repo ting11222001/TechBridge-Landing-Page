@@ -10,7 +10,7 @@ export function Hero() {
           <h1 className="font-serif text-4xl font-black leading-none text-[#E8402A] md:text-5xl lg:text-8xl">
             <span className="block">Bridging</span>
             <span className="block">the Digital</span>
-            <span className="block">Divide,</span>
+            <span className="block">Gap,</span>
             <span className="block">One Device</span>
             <span className="block">at a Time</span>
           </h1>

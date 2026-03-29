@@ -15,7 +15,7 @@ const dmSans = DM_Sans({
 })
 
 export const metadata: Metadata = {
-  title: 'TechBridge - Bridging the Digital Divide',
+  title: 'TechBridge - Bridging the Digital Gap',
   description: 'TechBridge helps businesses donate end-of-life devices to students in need through partner schools and NGOs. Inspired by Australia\'s Tech4Kids initiative.',
   generator: 'v0.app',
   openGraph: {
