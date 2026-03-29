@@ -18,6 +18,18 @@ export const metadata: Metadata = {
   title: 'TechBridge - Bridging the Digital Divide',
   description: 'TechBridge helps businesses donate end-of-life devices to students in need through partner schools and NGOs. Inspired by Australia\'s Tech4Kids initiative.',
   generator: 'v0.app',
+  openGraph: {
+    title: 'TechBridge, a Device Donation Platform',
+    description: 'A platform connecting businesses donating devices to schools and NGOs. Invoice module live. Donation module in progress.',
+    url: 'https://tech-bridge-landing-page.vercel.app',
+    images: [
+      {
+        url: '/preview.png',
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
   icons: {
     icon: [
       {
