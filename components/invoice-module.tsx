@@ -54,7 +54,7 @@ export function InvoiceModule() {
               </Badge>
             </div>
 
-            <div className="flex flex-col gap-4 sm:flex-row">
+            <div className="flex items-center gap-4">
               <Button
                 asChild
                 size="lg"
@@ -62,6 +62,17 @@ export function InvoiceModule() {
               >
                 <a href="https://tech-bridge-invoice-app.vercel.app/" target="_blank" rel="noopener noreferrer">
                   Try Live Demo
+                </a>
+              </Button>
+
+              <Button
+                asChild
+                size="lg"
+                variant="outline"
+                className="rounded-none border-[#E8402A] bg-transparent font-bold uppercase tracking-wider text-[#E8402A] hover:bg-[#1A1A1A] hover:text-white hover:border-[#1A1A1A]"
+              >
+                <a href="https://github.com/ting11222001/TechBridge-Invoice-app" target="_blank" rel="noopener noreferrer">
+                  View GitHub
                 </a>
               </Button>
             </div>

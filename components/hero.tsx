@@ -33,7 +33,7 @@ export function Hero() {
             asChild
             size="lg"
             variant="outline"
-            className="rounded-none border-[#E8402A] font-bold uppercase tracking-wider text-[#E8402A] hover:bg-[#E8402A] hover:text-white"
+            className="rounded-none border-[#E8402A] font-bold uppercase tracking-wider text-[#E8402A] hover:bg-[#1A1A1A] hover:text-white hover:border-[#1A1A1A]"
           >
             <a href="https://tech-bridge-invoice-app.vercel.app/" target="_blank" rel="noopener noreferrer">
               Try the Invoice Demo
