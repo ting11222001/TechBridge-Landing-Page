@@ -21,7 +21,7 @@ export function DonationModule() {
             </Badge>
             
             <h2 className="mb-6 font-serif text-5xl font-black text-[#E8402A] md:text-6xl lg:text-[72px] lg:leading-none">
-              Device Lifecycle Management
+              Device Donation Management
             </h2>
             
             <p className="mb-8 font-sans text-lg text-[#1A1A1A] leading-relaxed">
